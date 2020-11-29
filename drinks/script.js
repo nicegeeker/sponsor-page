@@ -17,7 +17,7 @@ $('#paypal-donate>a').href = PayPalLink;
 $('#github-box>a').href = GithubLink;
 var qrcodes = {
     'btc_donate'	:	'./images/BTCQR.png',	// 二维码路径
-    'alipay_donate'	:	'./images/alipay.png',	// 支付宝二维码
+    'alipay_donate'	:	'./images/alipay.jpeg',	// 支付宝二维码
     'alipay_donate_link'   :   'https://qr.alipay.com/a6x06788l2vlegmnmveij79',   // 支付宝二维码上的链接，必须换成自己的连接！！！手机点击会自动跳转到支付宝。
     'wechat_donate'	:	'./images/wechat.png'
 };
